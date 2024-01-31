@@ -1,0 +1,31 @@
+Total events on day 1: 186
+Total events on day 2: 195
+Total events on day 3: 153
+Total events on day 4: 184
+Total events on day 5: 148
+
+Event 1: Logins
+Total: 25
+Mean: 5.00
+Standard deviation: 1.26
+
+Event 2: Time online
+Total: 704
+Mean: 140.81
+Standard deviation: 16.39
+
+Event 3: Emails sent
+Total: 48
+Mean: 9.60
+Standard deviation: 1.96
+
+Event 4: Emails opened
+Total: 56
+Mean: 11.20
+Standard deviation: 4.45
+
+Event 5: Emails deleted
+Total: 35
+Mean: 7.00
+Standard deviation: 2.28
+
